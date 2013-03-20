@@ -1,0 +1,1 @@
+﻿package net.dolice.utils{	public const _global:Object = {};}
